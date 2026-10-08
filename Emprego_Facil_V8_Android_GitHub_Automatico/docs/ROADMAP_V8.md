@@ -1,0 +1,11 @@
+# V8
+- Firebase Cloud Messaging real
+- OAuth Google/Apple real
+- Pagamento Premium
+- WebSocket para chat em tempo real
+- Geocodificação
+- Mapa visual
+- S3/storage externo
+- OCR de currículo
+- IA por provedor externo
+- Publicação Play Store
